@@ -6,9 +6,13 @@ An interactive, educational web application that visually demonstrates how firew
 ![GitHub](https://img.shields.io/github/license/Mrsenso/BASIC-FIREWALL-SIMULATOR)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Mrsenso/BASIC-FIREWALL-SIMULATOR)
 
-## 🌟 Live Demo
+## 🌟 Some Live Demo Photos
+<img width="1343" height="618" alt="fw2" src="https://github.com/user-attachments/assets/b26acd48-ac56-49a4-a948-4ed5baeeb423" />
 
-Check out the live version: [Firewall Simulator](https://mrsenso.github.io/BASIC-FIREWALL-SIMULATOR/)
+<img width="1322" height="591" alt="fw3" src="https://github.com/user-attachments/assets/09cafd7f-ff89-4921-996b-32a86b443c06" />
+
+<img width="1344" height="620" alt="fw" src="https://github.com/user-attachments/assets/7298451b-bf22-4d1c-bcdb-0c92704967ed" />
+
 
 ## 📖 About
 
