@@ -94,3 +94,21 @@ This simulator helps understand:
 1. Clone the repository:
 ```bash
 git clone https://github.com/Mrsenso/BASIC-FIREWALL-SIMULATOR.git
+
+
+## Version History
+
+    v1.0 (Current)
+
+        Initial release with basic firewall simulation
+
+        Rule management system
+
+        Real-time traffic visualization
+
+        Logging and statistics
+
+<div align="center">
+
+Made with ❤️ by Mrsenso
+</div> ```
