@@ -74,7 +74,7 @@ This simulator helps understand:
 
   Feel free to contibute anything helpful for our free and open sources tools everytime hope we will consider your contribution as  very helpful.
 
- _ _ Areas for Improvement and contribution _ _ 
+ 	* * Areas for Improvement and contribution * * 
 
  Add more protocol support (ICMP, etc.)
 
