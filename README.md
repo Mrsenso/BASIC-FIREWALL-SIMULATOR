@@ -88,6 +88,14 @@ This simulator helps understand:
 
     Add more visual effects and animations
 
+## 📦 Installation
+
+1. Clone the repository:
+
+git clone https://github.com/Mrsenso/BASIC-FIREWALL-SIMULATOR.git
+
+
+
 
 
 ## Version History
@@ -106,11 +114,5 @@ This simulator helps understand:
 
 Made with ❤️ by Mrsenso
 </div> ```
-
-## 📦 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Mrsenso/BASIC-FIREWALL-SIMULATOR.git
 
 
