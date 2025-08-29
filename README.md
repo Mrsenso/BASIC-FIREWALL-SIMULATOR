@@ -87,13 +87,7 @@ This simulator helps understand:
     Implement export/import of rule sets
 
     Add more visual effects and animations
- 
 
-## 📦 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Mrsenso/BASIC-FIREWALL-SIMULATOR.git
 
 
 ## Version History
@@ -112,3 +106,11 @@ git clone https://github.com/Mrsenso/BASIC-FIREWALL-SIMULATOR.git
 
 Made with ❤️ by Mrsenso
 </div> ```
+
+## 📦 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Mrsenso/BASIC-FIREWALL-SIMULATOR.git
+
+
