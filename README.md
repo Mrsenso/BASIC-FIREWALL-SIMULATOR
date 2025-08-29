@@ -74,6 +74,20 @@ This simulator helps understand:
 
   Feel free to contibute anything helpful for our free and open sources tools everytime hope we will consider your contribution as  very helpful.
 
+  Areas for Improvement
+
+ Add more protocol support (ICMP, etc.)
+
+ Implement IP address-based filtering
+
+ Create preset rule sets for different scenarios
+
+ Add tutorial mode for beginners
+
+ Implement export/import of rule sets
+
+Add more visual effects and animations
+
 ## 📦 Installation
 
 1. Clone the repository:
